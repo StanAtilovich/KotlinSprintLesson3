@@ -4,7 +4,6 @@ package lesson_3_task_2
         val secondName = "Андреева"
         val middleName = "Сергеевна"
         val newSecondName = "Сидорова"
-
         val ageAt20 = 20
         val ageAt22 = 22
         println("На момент когда ей было $ageAt20 лет: $secondName $firstName $middleName , $ageAt20 лет ")
