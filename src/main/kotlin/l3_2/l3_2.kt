@@ -9,4 +9,5 @@ fun main() {
     val ageAt22 = 22
     println("На момент когда ей было $ageAt20 лет: $secondName $firstName $middleName , $ageAt20 лет ")
     println("На момент когда ей было $ageAt22 года: $newSecondName $firstName $middleName , $ageAt22 года ")
+
 }
